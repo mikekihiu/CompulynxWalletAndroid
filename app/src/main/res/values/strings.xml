@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Compulynx Wallet</string>
+    <string name="login">Login</string>
+    <string name="customer_id">Customer ID</string>
+    <string name="pin">PIN</string>
+    <string name="welcome_template">WELCOME %1$s</string>
+    <string name="balance">Balance</string>
+    <string name="send_money">Send Money</string>
+    <string name="view_statement">View Statement</string>
+    <string name="last_txn">Last Transactions</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="account_to">Account To</string>
+    <string name="amount">Amount</string>
+    <string name="send">Send</string>
+    <string name="name">Name</string>
+    <string name="id">ID</string>
+    <string name="account">Account</string>
+    <string name="email">Email</string>
+    <string name="home">Home</string>
+    <string name="last_100_txn">Last 100 transactions</string>
+    <string name="login_failed">Login failed</string>
+    <string name="sth_went_wrong">Something went wrong. Please try again later.</string>
+    <string name="txn_failed">Transaction failed</string>
+    <string name="txn_id">Transaction ID</string>
+    <string name="total">Total</string>
+</resources>
